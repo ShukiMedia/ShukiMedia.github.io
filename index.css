@@ -539,6 +539,7 @@
   border-color: rgba(255, 255, 255, 0.3);
   padding-bottom: var(--dl-space-space-threeunits);
 }
+
 .home-content3 {
   gap: var(--dl-space-space-oneandhalfunits);
   border: 2px dashed rgba(120, 120, 120, 0.4);
@@ -568,6 +569,7 @@
   color: rgb(255, 255, 255);
   font-size: 18px;
   line-height: 27px;
+  align-self: center;
 }
 .home-icon-container3 {
   padding-top: var(--dl-space-space-halfunit);
